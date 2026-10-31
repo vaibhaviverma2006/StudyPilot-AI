@@ -6,7 +6,7 @@ import DailyGoals from './DailyGoals'
 import DailyStreak from './DailyStreak'
 import WeeklyActivity from './WeeklyActivity'
 
-const API_URL = 'http://localhost:5000'
+const API_URL = 'https://studypilot-ai-9qwk.onrender.com'
 
 function App() {
   // AI Tutor
